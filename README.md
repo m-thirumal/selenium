@@ -16,4 +16,7 @@ mvn -P ExecuteTestSuite test
 
 * ReportNg
 
+* Read details from property files
+
+* Read Data from Excel
 
