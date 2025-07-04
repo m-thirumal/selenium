@@ -1,4 +1,4 @@
-package com.enkindle;
+package com.thirumal;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 public class SampleTest {
 	
-  @Test(dataProvider = "dp")
+  @Test(dataProvider     = "dp")
   public void f(Integer n, String s) {
   }
   @BeforeMethod

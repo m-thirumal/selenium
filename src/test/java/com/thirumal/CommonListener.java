@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.enkindle;
+package com.thirumal;
 
 import org.testng.ITestListener;
 import org.testng.ITestResult;

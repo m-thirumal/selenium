@@ -1,0 +1,4 @@
+browser:
+  name: FIREFOX
+base:
+  url: https://www.google.com

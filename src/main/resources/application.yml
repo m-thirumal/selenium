@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: selenium-with-spring-boot
+  profiles:
+    active: DEV
