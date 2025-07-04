@@ -3,3 +3,9 @@ spring:
     name: selenium-with-spring-boot
   profiles:
     active: DEV
+logging:
+  level:
+    root: INFO
+    com.thirumal: DEBUG
+  file:
+    name: logs/selenium.log
