@@ -6,6 +6,6 @@ spring:
 logging:
   level:
     root: INFO
-    com.thirumal: DEBUG
+    '[com.thirumal]': DEBUG
   file:
     name: logs/selenium.log
